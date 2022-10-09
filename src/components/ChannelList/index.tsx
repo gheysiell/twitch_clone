@@ -18,7 +18,7 @@ const ChannelList: React.FC = () => {
             <LeftSide>
                 <Avatar />
                 <Column>
-                    <Username>rocketseat_oficial</Username>
+                    <Username>company_ofc</Username>
                     <Info>36 new videos</Info>
                 </Column>
             </LeftSide>
